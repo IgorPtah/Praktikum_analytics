@@ -6,6 +6,6 @@
 
 Необходимо создать дашборд с ответами на данные вопросы
 
-### Частичные выводы
+### Краткие итоги
 
 [Дашборд](https://public.tableau.com/app/profile/igor.lundyshev/viz/_16389893109480/sheet4?publish=yes)
